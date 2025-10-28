@@ -197,7 +197,7 @@ export default function Home() {
         <div className="mx-auto max-w-7xl px-4 py-8 text-sm text-white/60 flex flex-col sm:flex-row justify-between gap-3">
           <span>© {new Date().getFullYear()} RealtorAIGrowth — All rights reserved.</span>
           <div className="flex gap-4">
-            <a href="#" className="hover:text-white">Privacy</a>
+            <a href="/privacy-policy" className="hover:text-white">Privacy</a>
             <a href="#" className="hover:text-white">Terms</a>
             <a href="#contact" className="hover:text-white">Contact</a>
           </div>
